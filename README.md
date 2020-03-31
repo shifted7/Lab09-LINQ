@@ -9,7 +9,7 @@
 4. Rewrite the queries from above and consolidate all into one single query.
 5. Rewrite at least one of these questions only using the opposing method (example: Use LINQ Query statements instead of LINQ method calls and vice versa.)
 
-![App in Action](assets/LINQInActionIncomplete.png)
+![App in Action](LINQInManhattan/LINQInManhattan/assets/LINQInAction.png)
 
 ## Instructions:
 1. git clone this repo onto your local machine.
