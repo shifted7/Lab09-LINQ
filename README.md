@@ -1,6 +1,7 @@
 # Lab09-LINQ
 - Our task is to read a file containing neighborhoods in New York City, while filtering and organizing that data.
 - A project for practicing the use of LINQ to read data in .NET C#.
+- [] TODO: Add summary comments and submit.
 
 ## Feature Tasks:
 1. Output all of the neighborhoods in this data list (Final Total: 147 neighborhoods)
