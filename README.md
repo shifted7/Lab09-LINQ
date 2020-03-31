@@ -12,10 +12,13 @@
 ![App in Action](assets/LINQInActionIncomplete.png)
 
 ## Instructions:
-1. git clone this repo onto your local machine
-2. open visual studio, and select the option to open a current project
-3. Navigate to the folder where you cloned the repo, and select LINQInManhattan.sln
-4. Make sure you're in the solution explorer, and click the green play button to debug
+1. git clone this repo onto your local machine.
+2. open visual studio, and select the option to open a current project.
+3. Navigate to the folder where you cloned the repo, and select LINQInManhattan.sln to open.
+4. Make sure you're in the solution explorer, and click the green play button to debug.
+
+## Approach:
+- This code first reads in all the text from data.JSON, and converts it to the C# class type DataObject. We have a class structure that directly translates all the properties of the JSON object into a corresponding C# object.
 
 ## Status:
-- This project is not yet finished. It has been difficult to understand how to parse the JSON data into something C# can work with.
+- Project complete for all five feature tasks
